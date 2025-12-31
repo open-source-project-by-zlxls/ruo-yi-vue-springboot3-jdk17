@@ -18,10 +18,21 @@
 * 权限认证使用Jwt，支持多终端认证系统。
 * 支持加载动态权限菜单，多方式轻松权限控制。
 * 高效率开发，使用代码生成器可以一键生成前后端代码。
-* 提供了技术栈（[Vue3](https://v3.cn.vuejs.org) [Element Plus](https://element-plus.org/zh-CN) [Vite](https://cn.vitejs.dev)）版本[RuoYi-Vue3](https://gitcode.com/yangzongzhuan/RuoYi-Vue3)，保持同步更新。
-* 提供了单应用版本[RuoYi-Vue-fast](https://gitcode.com/yangzongzhuan/RuoYi-Vue-fast)，Oracle版本[RuoYi-Vue-Oracle](https://gitcode.com/yangzongzhuan/RuoYi-Vue-Oracle)，保持同步更新。
-* 不分离版本，请移步[RuoYi](https://gitee.com/y_project/RuoYi)，微服务版本，请移步[RuoYi-Cloud](https://gitee.com/y_project/RuoYi-Cloud)
-* 阿里云折扣场：[点我进入](http://aly.ruoyi.vip)，腾讯云秒杀场：[点我进入](http://txy.ruoyi.vip)&nbsp;&nbsp;
+####  配套后端代码仓库地址
+* [RuoYi-Cloud-Vue（后端+Vue2前端）](https://gitee.com/open-source-project_11/ruo-yi-cloud-vue.git)
+* [RuoYi-Cloud-Vue-SpringBoot3-jdk17（后端+Vue2前端）](https://gitee.com/open-source-project_11/ruo-yi-cloud-vue-spring-boot3-jdk17.git)
+* [RuoYi-vue Vue3版本前端UI（Vue3前端）](https://gitee.com/open-source-project_11/RuoYi-vue-vue3-v3.9.1.git)
+* [RuoYi-vue-SpringBoot3 JDK17（后端+Vue2前端）](https://gitee.com/open-source-project_11/ruo-yi-vue-springboot3-jdk17-v3.9.1.git)
+* [若依框架Consul微服务版本](https://gitee.com/open-source-project_11/Ruoyi-Consul-Cloud.git)
+####  配套APP代码仓库地址
+* [RuoYi App（Uniapp前端）](https://gitee.com/open-source-project_11/ruo-yi-app.git)
+####  配套plus版本（不兼容RuoYi原生框架）
+* [RuoYi-Vue-Plus分布式集群与多租户](https://gitee.com/open-source-project_11/RuoYi-Vue-Plus.git)
+* [RuoYi-Plus的VUE和Cloud版本前端UI Vue3 + TS + Element Plus + Vite 版本](https://gitee.com/open-source-project_11/RuoYi-Plus-UI.git)
+* [RuoYi-Cloud-Plus 微服务通用权限管理系统多租户](https://gitee.com/open-source-project_11/RuoYi-Cloud-Plus.git)
+####  应用框架基于[uniapp](https://uniapp.dcloud.net.cn/)，支持小程序、H5、Android和IOS。
+####  前端组件采用[uni-ui](https://github.com/dcloudio/uni-ui)，全端兼容的高性能UI框架。
+####  阿里云折扣场：[点我进入](https://www.aliyun.com/minisite/goods?source=5176.29345612&userCode=zia0rnun)，腾讯云秒杀场：[点我进入](https://curl.qcloud.com/Y22OrT1U)&nbsp;&nbsp;
 
 ## 内置功能
 
